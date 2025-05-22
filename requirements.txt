@@ -1,0 +1,3 @@
+Django>=4.0,<5.0  # Specify your Django version
+psycopg2-binary>=2.9  # If using PostgreSQL
+python-dotenv>=0.19  # For environment variables
